@@ -2,7 +2,7 @@
 court: "Supreme Court of the United States"
 docket: "527"
 decided: "1927-03-08"
-citations: ["5 Ohio Law Abs. 185", "5 Ohio Law Abs. 159"]
+citations: ["5 Ohio Law Abs. 185"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
