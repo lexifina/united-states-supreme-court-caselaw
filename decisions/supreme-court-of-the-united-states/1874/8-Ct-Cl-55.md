@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of the United States"
+decided: "1874"
+citations: ["8 Ct. Cl. 55"]
+reporter: "us-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["REYBOLD'S CASE. Anthony Reybold et al., appellants, v. The United States, appellees."]
+source_url: "https://static.case.law/us-ct-cl/8/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5688586
+cites_cases: ["1 John., 229", "2 Wall, 276"]
+---
+
+# Reybold v. United States
+
+## Majority (Mr. Justice Davis)
+
+Mr. Justice Davis
+delivered the opinion of the court:
+This case is in only one particular different from that of Morgan et al. v. The United States, decided at the last term, (ante, p. 18.) Both were contracts of affreightment, with stipulations that the United States should bear the war risk and the owners the marine risk. The hiring in each case was for a particular purpose, the transportation of troops and munitions of war from place to place, as the necessities of the service might require; and although the United States were empowered to direct the manner of loading the vessels and their points of destination, yet the owners retained the control and management of them, and agreed to keep them in good repair and fit for the service in which they were engaged. In each «ase tbe loss sued for was occasioned by tbe perils of tbe sea, and in both tbe effort bas been, notwithstanding tbe express terms of .tbe contract that tbe owners were their own insurers against sucb risks, to shift tbe responsibility upon tbe United States.
+It was insisted in Morgan’s Case that tbe owners were relieved and tbe Government chargeable because tbe master was compelled to proceed to sea by tbe peremptory order of tbe quartermaster, when, in bis judgment expressed to that officer, tbe state of tbe wind and tide rendered it hazardous to do so;.but we held, as in several previous cases, (Reed v. The United States, 11 Wallace, 591; United States v. Kimball, 13 id., 636,) that, if this were so, it was outside of tbe contract, a tortious act of tbe officer, and therefore not within tbe jurisdiction of tbe Court of Claims.
+In tbe present case tbe master made no objection to tbe order requiring him to proceed on bis voyage, and this constitutes tbe only difference between tbe two cases. This difference, however, instead of helping tbe cause of tbe claimant, makes tbe justice of tbe defense still clearer. It was tbe business of tbe master to know whether tbe navigation of tbe river was dangerous or not, and naturally be would be better informed on sucb a subject than a quartermaster of tbe United States. How are we to know, in tbe absence of proof, that tbe order would have been given, or, if given, not withdrawn, bad tbe master stated that, in bis opinion, in tbe state of tbe river, it was unsafe to attempt to make tbe voyage? Why not speak of tbe danger when be, told tbe quartermaster, in reply to an inquiry on tbe subject prior to. tbe order being given, that Ms vessel was sheathed with iron and bad capacity to take tbe men and horses to City Point? This was tbe time to have spoken, as tbe object of tbe inquiry was plainly to ascertain whether or not tbe boat, if she bad tbe requisite capacity, was in a condition to withstand tbe masses of ice which were floating in the channel of tbe river. It is very clear -that upon tbe information, which was given in tbe absence of any objection to tbe proposed voyage, tbe officer of tbe Government bad tbe right to suppose, in tbe judgment of tbe master, it could be safely undertaken. It is no excuse to say that tbe master at tbe time knew it was unsafe to leave tbe wharf, but said nothing because be considered tbe order a military one, and, as such, to be obeyed. It is true, by the terms of the contract of affreightment, he was subject to the orders of the quartermaster; but this contract did not require him to sail out of port during such tempestuous weather as would necessarily jeopardize the safety of his boat. If obedience to an order given under such circumstances' had been demanded after proper objection, it would have been 'a tortious act on the part of an officer of the G-overnment. In such a case, if relief is to be afforded, it must come from Congress, for the Court of Claims has no power to entertain a suit based on a consideration of this character. If, however, the master chose to obey the order without objection, and in the course of the voyage the steamer commanded by him is lost or injured by a peril of the sea, her owners can have no just cause of complaint against the Government, and must abide the consequences of their stipulation.
+In every aspect of the case, the judgment of the Court of Claims should be affirmed.
