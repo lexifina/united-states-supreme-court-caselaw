@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of the United States"
 decided: "1871-12"
-citations: ["7 Ct. Cl. 89", "7 Ct. Cl. 82"]
+decided_precision: "month"
+citations: ["7 Ct. Cl. 89"]
 reporter: "us-ct-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
