@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of the United States"
+decided: "1871-12"
+citations: ["7 Ct. Cl. 28"]
+reporter: "us-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julian Alire, Appellee, v. The United States, Appellants."]
+source_url: "https://static.case.law/us-ct-cl/7/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3520027
+---
+
+# Alire v. United States
+
+## Majority (Mr. Justice Nelson)
+
+Mr. Justice Nelson
+delivered the opinion of the Court:
+This is an appeal from the Court of Claims.
+The petitioner, Julian Alire, in the court below sets forth that he had made application to the Commissioner of Pensions for one hundred and sixty acres of bounty land under the act of Congress of March 3, 1855, and of May 14,1856, and had conformed to the provisions of said acts, and the rules and regulations of the Pension-Office. That the application was rejected by the Commissioner, and, on appeal to the Secretary of the Interior, the rejection was confirmed. Issue was taken on this petition, and the cause afterward heard before the Court of Claims, and a decree rendered in favor of the petitioner for a bounty-land warrant, to be made and delivered to her by the proper officer. It was also further ordered that the decree should be certified by the clerk of the court, under its seal, and remitted to the Secretary of the Department of the Interior.
+The only question presented in the record which we shall examine ■ is, whether or not the court below had jurisdiction of the cause.
+The first act organizing this court was passed February 24, 1855, (10 Stat. L., p. 612,) and the jurisdiction conferred was “ to hear and determine all claims founded upon any law of Congress, or upon any regulation of an Executive Department, or upon any contract, express or implied, with the Government of the United States, which may be suggested to it by a petition filed therein, and also all claims which may be referred to said court by either House of Congress.” (§ 1.)
+The court was directed to keep a record of their proceedings, and, at the commencement of each session of Congress, and of each month during the session, report to Congress the cases upon which the court had fully acted, stating in each the material facts which they find established by the evidence, with their opinion in the case, and the reasons upon which it is founded.
+The court were also directed to prepare a bill in the cases determined favorably, in such form as, if enacted, will carry the same into effect. (§ 5.)
+The next act relating to the organization of the court was passed March 3,1883. (12 Stat. L., p. 765.)
+The second section of this act.confers substantially the same jurisdiction as to cases before the court as in the first section of the previous act; but jurisdiction, in addition, was conferred over set-offs, counter claims, &c., &c., on the part of the G-overnment against the petitioner.
+The fifth section provides, that either party might appeal to the Supreme Court of the United States from any final judgment or decree which might thereafter be rendered in the Court of Claims, wherein the amount in controversy exceeded three thousand dollars.
+The seventh section, that in all cases of final judgment by said court, or on appeal by the Supreme Court, where the- same was affirmed in favor of the claimant, the sum due thereby shall be paid out of any general appropriation made bylaw for the payment of private claims, on presentation to the Secretary of the Treasury of a copy of said judgment, &c. And in cases where the judgment appealed from is in favor of said claimant, or the same is affirmed by the Supreme Court, interest at the rate of five per cent, shall be allowed from the date of its presentation to the Secretary of the Treasury for payment, but no interest shall be allowed subsequent to the affirmance unless presented for payment to the Secretary of the Treasury as aforesaid, with a proviso tlia-t no interest shall be allowed on any claim up to the time of the rendition of the judgment by said Court of Claims, unless on á contract expressly stipulating for interest.
+The thirteenth section enacts that all laws, and parts of laws, inconsistent with the provisions of this act are hereby repealed.
+It will be seen by the above reference which we have made to the two acts of Congress on this subject, that the only judgments which the Court of Claims are authorized to render against the Government, or over which the Supreme Court have any jurisdiction on appeal, or for the payment of which by the Secretary of the Treasury any provision is made, are judgments for money found due from the Government to the petitioner. And, although it is true that the subject-matter over which jurisdiction is conferred, both in the act of 1855 and of 1863, would admit of a much more extended cognizance of cases, yet it is quite clear that the limited power given to render a judgment necessarily restrains the general terms, and confines the subject-matter to cases in which the‘petitioner sets up a moneyed demand as due from the Government.
+This view is confirmed by the judgment of this court in the case of Gordon, adm'r. v. The United States, (ante, p. 1,) in which the court denied any jurisdiction over the ease on account of the power of the executive department over its judgment by the fourteenth section of the act of 1863. That section was repealed by the first section of the act of March 17,1866.
+The decree, or judgment, in the present case is, that the claimant recover of the Government a military land-warrant for one hundred and sixty acres of land, and that it be made out and delivered to the said Julian Alire by the proper officer, and the decree to be certified and remitted to the Secretary of the Interior. We find no provision in any of the statutes requiring a judgment of this character, whether in this court or in the Court of Claims, to be obeyed or satisfied. Nor does either court possess any authority to render such a judgment, as is apparent from a perusal of the seventh section’ of the act of 1863, and which is the only one providing for the rendition of a judgment or decree in any case before the court below.
+Even if the first section of the act of 1855 and the second of 1863 could be construed as giving a jurisdiction in cases other than money demands against the Government, no judgment could be rendered by the court below, and, of consequence, the carrying into effect their finding must depend on the act of 1855. But we are of opinion that it was intended by the several provisions of the act of 1863 that the cases to be heard were to pass into a judgment as prescribed in tbe seventh section of the latter act, and hence they must be such in their nature and character as may admit of a judgment or decree in conformity with its provisions.
+Our conclusion is, the court below had no jurisdiction of this case, and that the decree must be reversed, and the cause remanded to the court with directions to enter a decree dismissing the petition.
