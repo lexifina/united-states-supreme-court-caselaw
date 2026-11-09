@@ -6,10 +6,10 @@
   "language": "en",
   "kind": "judgments",
   "history": "in-force",
-  "coverage": "383560 published opinions with text, one file and one commit each, dated the day decided; 1589 citations of the US Code linked to united-states/federal/usc.",
+  "coverage": "386132 published decisions, one file each, dated the day decided: 337770 with their opinion text and 48362 with CAP head matter only (CAP holds no opinion text for them); 1589 citations of the US Code linked to united-states/federal/usc.",
   "history_from": "1791-01-01",
   "record_to": "2026-11-06",
-  "checked_on": "2026-11-06",
+  "checked_on": "2026-11-09",
   "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day decided. Commits before 1970 are dated 1970-01-01, a second apart; In-force holds the real day. The US Code record holds only some titles, so most statute citations are not linked.",
   "in_force_trailer": "In-force",
   "correction_trailer": "Corrected",
@@ -35,6 +35,25 @@
       "source": "Caselaw Access Project bulk data (static.case.law)",
       "reporters": "U.S., S. Ct., L. Ed. 2d, B.R., Ct. Cl., Fed. Cl., Cl. Ct., Vet. App., Alaska Fed., Alaska, Ohio Law Abs., F. and 13 more",
       "head_matter": "left out (the publisher's text)"
+    }
+  ],
+  "decision_relations": {
+    "path": "decision-relations.tsv",
+    "relations": {
+      "same-decision-as": "the file is the same decision as the target (same day, docket or name, and text); both are kept",
+      "moved-to": "the decision was routed here by mistake and is now at the target (<repo>/<path>); this file was removed"
+    }
+  },
+  "decision_dates": {
+    "path": "decision-dates.tsv",
+    "note": "decisions whose CAP date gives only the month or the year (precision month or year): committed on the first day of it, In-force likewise"
+  },
+  "corrections": [
+    {
+      "on": "2026-11-09",
+      "decisions_added": 2616,
+      "files_corrected": 33110,
+      "note": "CAP deep-check fixes (README: Corrections)"
     }
   ]
 }
