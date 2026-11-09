@@ -55,3 +55,5 @@ Here 90,700 decisions are before 1970, so 47,501 of their commits are dated 1970
 Head matter differs by when a decision came in: this repo's first build, from the Caselaw Access Project, includes each decision's head matter (syllabus, headnotes, counsel) in its file; the decisions appended later from the CAP bulk data leave it out (the publisher's text, not the court's), except where CAP has no opinion text, where the file gives the head matter under `## CAP head matter`. A text search over head-matter words therefore finds them only in the first build's decisions.
 
 The CAP append also left 44 empty commits (a re-append of decisions whose CAP date gives only the month or year); they change no file and cannot be removed without rewriting the history.
+
+A second pass (2026-11-09) listed 1,335 more appended files as `same-decision-as` an earlier copy: orders printed both in the Supreme Court Reporter and the U.S. Reports, of the same day, docket and text (their dockets were compared one by one, and the text and its length checked, since an orders list shares its dockets among many orders).
