@@ -57,3 +57,5 @@ Head matter differs by when a decision came in: this repo's first build, from th
 The CAP append also left 44 empty commits (a re-append of decisions whose CAP date gives only the month or year); they change no file and cannot be removed without rewriting the history.
 
 A second pass (2026-11-09) listed 1,335 more appended files as `same-decision-as` an earlier copy: orders printed both in the Supreme Court Reporter and the U.S. Reports, of the same day, docket and text (their dockets were compared one by one, and the text and its length checked, since an orders list shares its dockets among many orders).
+
+A third pass (2026-11-09) listed the 98 remaining files the CAP append added a second time from the same CAP record (a date given only to the month or year, compared as written) as `same-decision-as` the first copy; with the earlier passes every one of the 326 such re-adds is listed. The 44 empty commits of that re-append change no file.
