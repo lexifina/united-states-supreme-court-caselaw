@@ -6,7 +6,7 @@
   "language": "en",
   "kind": "judgments",
   "history": "in-force",
-  "coverage": "386132 published decisions, one file each, dated the day decided: 337770 with their opinion text and 48362 with CAP head matter only (CAP holds no opinion text for them); 2905 citations of the US Code linked to united-states/federal/usc.",
+  "coverage": "386132 published decisions, one file each, dated the day decided: 337770 with their opinion text and 48362 with CAP head matter only (CAP holds no opinion text for them); 2799 citations of the US Code linked to united-states/federal/usc.",
   "history_from": "1791-01-01",
   "record_to": "2026-11-06",
   "checked_on": "2026-11-09",
@@ -25,7 +25,7 @@
   "overlay": {
     "path": "judgments/united-states/federal/usc/<title>/<section>.jsonl",
     "law_corpus": "united-states/federal/usc",
-    "rebuilt": "2026-11-09",
+    "rebuilt": "2026-11-10",
     "reader": "tools/usc_cite.py: a page stamp (\"USCA4\") is no citation, \"(a)(4)\" a subsection, a range (\"§§ 101-1330\", \"§§ 1 through 16\") links neither end (its ends are no more cited than the sections between them); a citation under an older numbering (before the title was recodified, before the section was added, an earlier edition, \"former\") is not linked; one row per decision (decision-relations.tsv duplicates left out)",
     "law_commit": "f33a539ca52fde0166d681830d03e812e05d288f",
     "titles": [
