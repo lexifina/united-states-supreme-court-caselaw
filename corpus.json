@@ -6,7 +6,7 @@
   "language": "en",
   "kind": "judgments",
   "history": "in-force",
-  "coverage": "386132 published decisions, one file each, dated the day decided: 337770 with their opinion text and 48362 with CAP head matter only (CAP holds no opinion text for them); 2799 citations of the US Code linked to united-states/federal/usc.",
+  "coverage": "386132 files, one per entry, dated the day decided: the Supreme Court's opinions, per curiam decisions and orders as the United States Reports print them, every order its own entry (the first build's 328,247 were 30,240 opinions, 29,213 short per curiam decisions and orders, and 268,794 one-line memorandum orders such as certiorari denied); 337770 with their opinion text and 48362 with CAP head matter only (CAP holds no opinion text for them); 2799 citations of the US Code linked to united-states/federal/usc.",
   "history_from": "1791-01-01",
   "record_to": "2026-11-06",
   "checked_on": "2026-11-09",
